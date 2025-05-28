@@ -78,5 +78,5 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 ---
 
 <p align="center">
-  Feito com 💜 por Maria
+  <strong>Obrigada por me visitar 💖</strong>
 </p>
