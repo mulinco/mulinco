@@ -43,11 +43,11 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 
 🎬 **Análise de Dados Pessoais**
 - Classificação de gêneros cinematográficos com clusterização
-- Dashboards interativos com Streamlit(✅) e Power BI(⏳)
+- [Dashboards interativos com Streamlit(✅) e Power BI(⏳)](https://github.com/mulinco/analysis-genre-netflix)
 
 ⏳ **Em Desenvolvimento**
-- [Doenças mais caras para o SUS pós-pandemia](https://github.com/mulinco)
-- [Pokédex com SQL & visualização](https://github.com/mulinco)
+- Doenças mais caras para o SUS pós-pandemia
+- Pokédex com SQL & visualização
 
 ---
 
