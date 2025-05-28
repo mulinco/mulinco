@@ -50,13 +50,22 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 - Pokédex com SQL & visualização
 
 ---
-<p align="center">
-  <i>"Para alcançar um objetivo, você tem que saber o que realmente quer."</i> — <b>Gon Freecss</b>
-</p>
-<p align="center">
-  <img src="https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif" alt="descrição" width="300">
-</p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <blockquote>
+          "Para alcançar um objetivo, você tem que saber o que realmente quer." 💚 <br>
+          — Gon Freecss
+        </blockquote>
+      </td>
+      <td width="150px" align="right">
+        <img src="[URL_DA_IMAGEM_DO_NARUTO](https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif)" alt="Gon" width="100"/>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### 🤝 Vamos nos conectar?
