@@ -1,7 +1,8 @@
 <h1 align="center">Oi, eu sou a Maria! 🌼</h1>
 
 <p align="center">
-  🧬 Cientista em formação, apaixonada por dados, genética e storytelling. \n  
+  🧬 Cientista em formação, apaixonada por dados, genética e storytelling.  
+  
   💻 Transformando minha curiosidade científica em dashboards e pipelines.  
 </p>
 
