@@ -66,6 +66,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
     </tr>
   </table>
 </div>
+
 ---
 
 ### 🤝 Vamos nos conectar?
