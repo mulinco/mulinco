@@ -79,7 +79,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/BT8R6Y52PQ0AAAAd/goku-bye.gif" width="220" height="140" alt="eu e venus" width="500"/>
+  <img src="https://media1.tenor.com/m/yf2J9gTT3rQAAAAC/bye-bye.gif" width="220" height="140" alt="gojo" width="500"/>
 </p>
 
 <p align="center">
