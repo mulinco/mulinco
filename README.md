@@ -2,10 +2,11 @@
 
 <p align="center">
   🧬 Cientista em formação, apaixonada por dados, genética e storytelling.  
-  
-  💻 Transformando minha curiosidade científica em dashboards e pipelines.  
 </p>
 
+<p align="center">
+  💻 Transformando minha curiosidade científica em dashboards e pipelines.  
+</p>  
 ---
 
 ### 💁 Sobre mim
