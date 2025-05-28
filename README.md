@@ -61,7 +61,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
         </blockquote>
       </td>
       <td width="150px" align="right">
-        <img src="[URL_DA_IMAGEM_DO_NARUTO](https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif)" alt="Gon" width="100"/>
+        <img src="[URL_DA_IMAGEM_DO_NARUTO](https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif)" alt="Gon" width="250"/>
       </td>
     </tr>
   </table>
