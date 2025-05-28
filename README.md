@@ -51,7 +51,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 
 ---
 
-<i>"Para alcançar um objetivo, você tem que saber o que realmente quer."</i> — <b>Gon Freecss</b> (Hunter x Hunter) (https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif)
+<i>"Para alcançar um objetivo, você tem que saber o que realmente quer."</i> — <b>Gon Freecss</b> (Hunter x Hunter) !(https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif)
 
 ---
 
