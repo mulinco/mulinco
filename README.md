@@ -78,7 +78,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 ---
 
 <p align="center">
-  <img src="[URL_DA_SUA_IMAGEM_CENTRAL](https://sdmntpreastus2.oaiusercontent.com/files/00000000-c538-61f6-8771-a2390d64e6d0/raw?se=2025-05-28T18%3A15%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=9f7440fc-68b6-5181-a66c-1fae595306c7&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-28T02%3A14%3A14Z&ske=2025-05-29T02%3A14%3A14Z&sks=b&skv=2024-08-04&sig=WTiyjuvdO6QCeqi552VYczX/xqcRwvEgQswa4Spn0zo%3D)" alt="eu e venus" width="500"/>
+  <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-c538-61f6-8771-a2390d64e6d0/raw?se=2025-05-28T18%3A15%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=9f7440fc-68b6-5181-a66c-1fae595306c7&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-28T02%3A14%3A14Z&ske=2025-05-29T02%3A14%3A14Z&sks=b&skv=2024-08-04&sig=WTiyjuvdO6QCeqi552VYczX/xqcRwvEgQswa4Spn0zo%3D" alt="eu e venus" width="500"/>
 </p>
 
 <p align="center">
