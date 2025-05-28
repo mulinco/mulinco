@@ -82,5 +82,5 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 </p>
 
 <p align="center">
-  <strong><i>Obrigada por me visitar 💖</i></strong>
+ <i>Obrigada por me visitar 💖</i>
 </p>
