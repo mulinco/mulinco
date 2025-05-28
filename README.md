@@ -50,9 +50,10 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Inic
 - Pokédex com SQL & visualização
 
 ---
-
+<p align="left">
+  <i>"Para alcançar um objetivo, você tem que saber o que realmente quer."</i> — <b>Gon Freecss</b> (Hunter x Hunter)
+</p>
 <p align="right">
-<i>"Para alcançar um objetivo, você tem que saber o que realmente quer."</i> — <b>Gon Freecss</b> (Hunter x Hunter) 
   <img src="https://media1.tenor.com/m/FZx3TFExGOIAAAAd/gon-smile.gif" alt="descrição" width="300">
 </p>
 
