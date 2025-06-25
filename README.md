@@ -12,7 +12,7 @@
 ---
 ### 💁 Sobre mim
 
-Sou estudante de **Ciências Biológicas - Genética (UFRJ)** e bolsista de Iniciação Científica em Bioinformática. Amo descobrir padrões escondidos, contar histórias com dados e entender como a diversidade genética molda o mundo. 
+Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dados (UNINTER)** e bolsista de Iniciação Científica em Bioinformática. Amo descobrir padrões escondidos, contar histórias com dados e entender como a diversidade genética molda o mundo. 
 
 👩‍💻 Estou em transição de carreira para **ciência e engenharia de dados**, aplicando tudo que aprendi na biologia para resolver problemas com tecnologia.
 
