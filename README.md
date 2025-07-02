@@ -46,6 +46,10 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 - Classificação de gêneros cinematográficos com clusterização
 - [Dashboards interativos com Streamlit(✅) e Power BI(⏳)](https://github.com/mulinco/analysis-genre-netflix)
 
+⚙️ Automação & Gestão de Dados
+
+- [Extrator de Dados de Declarações de Importação (D.I.) para Excel: Automatiza a extração e organização de dados de D.I.s em PDFs para controle financeiro/fiscal, utilizando Python, Google Drive e Regex.](https://github.com/mulinco/Extrator_Dados_DI_PDF_Excel)
+
 ⏳ **Em Desenvolvimento**
 - Doenças mais caras para o SUS pós-pandemia
 - Pokédex com SQL & visualização
