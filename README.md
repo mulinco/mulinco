@@ -42,7 +42,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 - Análise da diferenciação genética entre superpopulações humanas (FST)
 - Reconstrução de filogenias em Eukarya e suas instabilidades
 
-🎬 **Análise de Dados Pessoais**
+🎬 **Análise de Dados (PROJETOS PESSOAIS)**
 - Classificação de gêneros cinematográficos com clusterização
 - [Dashboards interativos com Streamlit(✅) e Power BI(⏳)](https://github.com/mulinco/analysis-genre-netflix)
 
