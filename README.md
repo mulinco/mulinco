@@ -48,7 +48,8 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 
 ⚙️ Automação & Gestão de Dados
 
-- [Extrator de Dados de Declarações de Importação (D.I.) para Excel: Automatiza a extração e organização de dados de D.I.s em PDFs para controle financeiro/fiscal, utilizando Python, Google Drive e Regex.](https://github.com/mulinco/Extrator_Dados_DI_PDF_Excel)
+- [Extrator de Dados de Declarações de Importação (D.I.) para Excel (GOOGLE DRIVE INTEGRADO)](https://github.com/mulinco/Extrator_Dados_DI_PDF_Excel)
+- [Extrator de Dados de Declarações de Importação (D.I.) para Excel (MANUAL)](https://github.com/mulinco/extrator-pdf-streamlit)
 
 ⏳ **Em Desenvolvimento**
 - Doenças mais caras para o SUS pós-pandemia
