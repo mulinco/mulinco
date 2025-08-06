@@ -81,5 +81,5 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 </p>
 
 <p align="center">
- <i>Obrigada por me visitar 💖</i>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&vCenter=true&width=435&lines=Obrigada+por+me+visitar!+%F0%9F%8C%BC" alt="Typing SVG" /></a>
 </p>
