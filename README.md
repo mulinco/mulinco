@@ -1,4 +1,4 @@
-<p align="left"><img src="https://media.tenor.com/vsQmbET1T84AAAAM/spyxfamily-spy-x-family.gif"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Maria!+%F0%9F%8C%BC" alt="Typing SVG" /></a> </p>
+<p align="center"><img src="https://media.tenor.com/vsQmbET1T84AAAAM/spyxfamily-spy-x-family.gif"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Maria!+%F0%9F%8C%BC" alt="Typing SVG" /></a> </p>
 
 
 ---
