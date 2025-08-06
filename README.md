@@ -1,14 +1,5 @@
 <p align="center"><img src="https://media.tenor.com/vsQmbET1T84AAAAM/spyxfamily-spy-x-family.gif"> </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&width=435&lines=Oi%2C+eu+sou+a+Maria!+%F0%9F%8C%BC" alt="Typing SVG" /></a>
-
-<p align="center">
-  🧬 Cientista em formação, apaixonada por dados, genética e storytelling.  
-</p>
-
-<p align="center">
-  💻 Transformando minha curiosidade científica em dashboards e pipelines.  
-</p>  
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&width=435&lines=Oi%2C+eu+sou+a+Maria!+%F0%9F%8C%BC" alt="Typing SVG" /></a>
 ---
 ### 💁 Sobre mim
 
