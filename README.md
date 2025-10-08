@@ -20,7 +20,7 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
 
 ---
 <p align="center">
@@ -39,15 +39,6 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 🎬 **Análise de Dados (PROJETOS PESSOAIS)**
 - Classificação de gêneros cinematográficos com clusterização
 - [Dashboards interativos com Streamlit(✅) e Power BI(⏳)](https://github.com/mulinco/analysis-genre-netflix)
-
-⚙️ Automação & Gestão de Dados
-
-- [Extrator de Dados de Declarações de Importação (D.I.) para Excel (GOOGLE DRIVE INTEGRADO)](https://github.com/mulinco/Extrator_Dados_DI_PDF_Excel)
-- [Extrator de Dados de Declarações de Importação (D.I.) para Excel (MANUAL)](https://github.com/mulinco/extrator-pdf-streamlit)
-
-⏳ **Em Desenvolvimento**
-- Doenças mais caras para o SUS pós-pandemia
-- Pokédex com SQL & visualização
 
 ---
 
