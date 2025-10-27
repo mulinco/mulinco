@@ -43,11 +43,11 @@ Meu background em Ciências Biológicas (UFRJ) e Bioinformática me deu uma fort
 ### 🌱 Projetos que me representam
 ⚙️ Engenharia de Back-End & Dados
 
-Projeto EduTech - Plataforma de Cursos Online: Meu projeto de back-end mais completo. Modelei e construí a arquitetura de um banco de dados PostgreSQL avançado (aplicando 3FN, ENUMs, TIMESTAMPTZ) e criei um pipeline de dados em Python (Pandas, Faker) para geração, validação e parsing dos dados.
+**Projeto EduTech - Plataforma de Cursos Online:** Meu projeto de back-end mais completo. Modelei e construí a arquitetura de um banco de dados PostgreSQL avançado (aplicando 3FN, ENUMs, TIMESTAMPTZ) e criei um pipeline de dados em Python (Pandas, Faker) para geração, validação e parsing dos dados.
 
-Automação de Processos com Python: Script em Python que desenvolvi em uma experiência profissional para automatizar a extração de dados (parsing) de centenas de PDFs de Declaração de Importação, gerando relatórios automáticos em Excel.
+**Automação de Processos com Python:** Script em Python que desenvolvi em uma experiência profissional para automatizar a extração de dados (parsing) de centenas de PDFs de Declaração de Importação, gerando relatórios automáticos em Excel.
 
-(Em Breve) Projeto Full-Stack: ⏳ Próximo passo da minha formação, onde vou construir uma aplicação completa, consumindo uma API REST com HTML, CSS e JavaScript.
+(Em Breve) **Projeto Full-Stack:** ⏳ Próximo passo da minha formação, onde vou construir uma aplicação completa, consumindo uma API REST com HTML, CSS e JavaScript.
 
 ### 🔬 Análise de Dados & Bioinformática (Meu Background)
 
