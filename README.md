@@ -5,10 +5,11 @@
 ---
 
 ### 💁 Sobre mim
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e da formação intensiva Full Stack da Casa Digital.
 
-Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dados (UNINTER)** e bolsista de Iniciação Científica em Bioinformática. Amo descobrir padrões escondidos, contar histórias com dados e entender como a diversidade genética molda o mundo. 
+Meu background em Ciências Biológicas (UFRJ) e Bioinformática me deu uma forte base analítica, mas descobri que minha verdadeira paixão é construir software.
 
-👩‍💻 Estou em transição de carreira para **ciência e engenharia de dados**, aplicando tudo que aprendi na biologia para resolver problemas com tecnologia.
+👩‍💻 Estou em transição de carreira para Desenvolvimento e Engenharia de Dados, pronta para aplicar minha visão interdisciplinar em desafios reais.
 
 ---
 
@@ -40,14 +41,19 @@ Sou estudante de **Ciências Biológicas - Genética (UFRJ)**, **Ciência de Dad
 ---
 
 ### 🌱 Projetos que me representam
+⚙️ Engenharia de Back-End & Dados
 
-🔬 **Genética Populacional & Evolução**
-- Análise da diferenciação genética entre superpopulações humanas (FST)
-- Reconstrução de filogenias em Eukarya e suas instabilidades
+Projeto EduTech - Plataforma de Cursos Online: Meu projeto de back-end mais completo. Modelei e construí a arquitetura de um banco de dados PostgreSQL avançado (aplicando 3FN, ENUMs, TIMESTAMPTZ) e criei um pipeline de dados em Python (Pandas, Faker) para geração, validação e parsing dos dados.
 
-🎬 **Análise de Dados (PROJETOS PESSOAIS)**
-- Classificação de gêneros cinematográficos com clusterização
-- [Dashboards interativos com Streamlit(✅) e Power BI(⏳)](https://github.com/mulinco/analysis-genre-netflix)
+Automação de Processos com Python: Script em Python que desenvolvi em uma experiência profissional para automatizar a extração de dados (parsing) de centenas de PDFs de Declaração de Importação, gerando relatórios automáticos em Excel.
+
+(Em Breve) Projeto Full-Stack: ⏳ Próximo passo da minha formação, onde vou construir uma aplicação completa, consumindo uma API REST com HTML, CSS e JavaScript.
+
+### 🔬 Análise de Dados & Bioinformática (Meu Background)
+
+Análise de Gêneros Netflix: Aplicação de algoritmos de clusterização para classificação de gêneros e criação de dashboards interativos (Streamlit ✅ | Power BI ⏳).
+
+Análise Genômica (Iniciação Científica): Análise de diferenciação genética em populações humanas (FST) e reconstrução de filogenias.
 
 ---
 
