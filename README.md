@@ -9,7 +9,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e da for
 
 Meu background em Ciências Biológicas (UFRJ) e Bioinformática me deu uma forte base analítica, mas descobri que minha verdadeira paixão é construir software.
 
-👩‍💻 Estou em transição de carreira para Desenvolvimento e Engenharia de Dados, pronta para aplicar minha visão interdisciplinar em desafios reais.
+👩‍💻 Estou em transição de carreira para Desenvolvimento e pronta para aplicar minha visão interdisciplinar em desafios reais.
 
 ---
 
