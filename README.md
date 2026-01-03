@@ -67,9 +67,15 @@ Minha jornada começou na **Ciência** (Biologia/UFRJ & Bioinformática), onde a
 ---
 
 <div align="center">
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=mulinco&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulinco&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mulinco&theme=radical)](https://git.io/streak-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mulinco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulinco&layout=compact&theme=radical"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=mulinco&theme=radical"/>
+  </a>
 </div>
 
 ---
