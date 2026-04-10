@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Maria!+%F0%9F%8C%BC;Dev+Full+Stack+em+forma%C3%A7%C3%A3o;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Maria!+%F0%9F%8C%BC;Product+Engineer+%26+Co-founder;" alt="Typing SVG">
   </a>
 </p>
 
@@ -21,46 +21,49 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (UNINTER)** e estou trilhando minha transição de carreira para o desenvolvimento Full Stack.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (UNINTER)** e co-fundadora da **Ponira Lab**. Minha trajetória une o rigor analítico das **Ciências Biológicas (UFRJ)** com a agilidade do desenvolvimento de software moderno.
 
-Venho de uma base acadêmica sólida em **Ciências Biológicas (UFRJ)**, com experiência em **Bioinformática** e análise de dados complexos. Hoje, utilizo esse rigor científico para construir interfaces imersivas, animações coreografadas e arquiteturas de software escaláveis. Sou nascida e criada na **Rocinha**, Rio de Janeiro, e acredito na tecnologia como motor de impacto social.
+Nascida e criada na **Rocinha**, Rio de Janeiro, acredito na tecnologia como ferramenta de transformação. Hoje, foco em construir interfaces que não apenas funcionam, mas encantam, utilizando o ecossistema Next.js e animações coreografadas.
 
-* 🔭 **Foco atual:** Ecossistema Next.js 14, animações profissionais com **GSAP** e otimização de performance no Front-end.
-* 🌱 **Aprendizado Contínuo:** Especializando-me em React, TypeScript e padrões de projeto reais para completar meu stack.
+* 🔭 **No momento:** Liderando o desenvolvimento técnico na Ponira Lab.
+* 🌱 **Evoluindo em:** TypeScript, Clean Code e Performance Web.
+* ⚡ **Diferencial:** Visão Full Stack com sensibilidade estética (UI/UX).
+
+---
+
+### 🎨 Ponira Lab | Projetos de Mercado
+
+| Cliente | Stack | Descrição |
+| :--- | :--- | :--- |
+| **[Colégio João Pedro](https://github.com/poniralab/colegio-joao-pedro)** | `Next.js`, `GSAP`, `TS` | **Site Institucional e Landing Page.** Interface imersiva com animações de alto nível, foco em conversão e performance. |
+| **[Latinambiente](https://github.com/poniralab/latinambiente)** | `React`, `Next.js` | **Modernização.** Consumo de API pública do Wordpress com interface moderna e imersiva em Next.js |
+| **[Linktree Agatha Viana](https://github.com/mulinco/linktree-agatha)** | `React`, `Tailwind` | **Identidade Digital.** Linktree personalizado com foco em mobile-first e carregamento instantâneo. |
+| **[LBEM](https://github.com/poniralab/lbem)** | `React`, `Tailwind` | **Modernização e Migração** Modernização de Site Institucional do Laboratório de Bioinformática e Evolução Molecular da UFRJ. Interface moderna com Next.js e suporte aos idiomas inglês e espanhol. |
+
+---
+
+### 🚀 Outros Projetos Relevantes
+
+| Projeto | Categoria | Destaque Técnico |
+| :--- | :--- | :--- |
+| **[EduTech - FullStack](https://github.com/Edutech-Instituto-Consuelo/frontend)** | `Educação` | Autenticação JWT, validação com Zod e integração com Postgres. |
+| **[Extrator de PDF](https://github.com/mulinco/extrator-pdf-streamlit)** | `Automação` | Pipeline em Python para extração massiva de dados aduaneiros. |
+| **[Análise de Dados Netflix](https://github.com/mulinco/analysis-genre-netflix)** | `Data Science` | Clusterização com Pandas e visualização estratégica de tendências. |
 
 ---
 
 ### 🧰 Tech Stack
 
 <div align="center">
-
-**Front-end & UX de Alto Nível** <br>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<br>
-
-**Back-end, Dados & Ciência** <br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
-
----
-
-### 🚀 Repositórios em Destaque
-
-| Projeto | Tecnologias | Descrição |
-| :--- | :--- | :--- |
-| **[Colégio João Pedro](https://github.com/mulinco/colegio-joao-pedro)** | `Next.js`, `GSAP`, `TS` | **Landing Page Premium.** UI imersiva com animações GSAP, Glassmorphism e branding rigoroso baseado em Identidade Visual profissional. |
-| **[EduTech - Plataforma](https://github.com/mulinco/edutech)** | `Python`, `Postgres` | **Engenharia de Dados.** Arquitetura de banco de dados em 3FN e pipeline para geração de dados massivos. |
-| **[EduTech - FrontEnd](https://github.com/Edutech-Instituto-Consuelo/frontend)** | `React`, `TS`, `Zod` | **UX & Autenticação.** Implementação de fluxos de login/cadastro com validações avançadas via Zod e consumo de API. |
-| **[Extrator de PDF](https://github.com/mulinco/extrator-pdf-streamlit)** | `Python`, `Streamlit` | **Automação.** Script robusto para extração de dados de centenas de PDFs de importação diretamente para Excel. |
-| **[Análise Netflix](https://github.com/mulinco/analysis-genre-netflix)** | `Python`, `Pandas` | **Data Science.** Aplicação de clusterização de gêneros e dashboards interativos. |
 
 ---
 
@@ -86,9 +89,3 @@ Venho de uma base acadêmica sólida em **Ciências Biológicas (UFRJ)**, com ex
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B3C8&center=true&vCenter=true&width=435&lines=Obrigada+por+me+visitar+!;" alt="Typing SVG">
-  </a>
-</p>
